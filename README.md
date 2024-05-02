@@ -3,7 +3,7 @@
 # 1- Hotel Management Dashboard
 
 This dashboard showcases total revenue, losses, and cancellation percentages by month, country, and customer type, along with total bookings, providing comprehensive insights into booking-related metrics for effective management.
-[Report Link:]url(https://app.powerbi.com/view?r=eyJrIjoiODgzZDAzZGItOWZkZi00ZDEwLWIxYTctNDIzNGY0NzQ3ZjNmIiwidCI6Ijg1OWI4OGE2LTI3OWUtNDQwOS04MjJiLWQ4ZjdlODU3OTAwOCIsImMiOjl9&pageName=ReportSection)
+[Report Link:](https://app.powerbi.com/view?r=eyJrIjoiODgzZDAzZGItOWZkZi00ZDEwLWIxYTctNDIzNGY0NzQ3ZjNmIiwidCI6Ijg1OWI4OGE2LTI3OWUtNDQwOS04MjJiLWQ4ZjdlODU3OTAwOCIsImMiOjl9&pageName=ReportSection)
 # Home
 
 ![image](https://github.com/MYousafTK/Power-BI/assets/128382787/561d9af6-5da3-4507-a62e-64912400f59b)
@@ -21,6 +21,8 @@ This dashboard showcases total revenue, losses, and cancellation percentages by 
 
 # 2- Sales and Debtor Analysis Report
 The Sales and Debtor Analysis Report offers comprehensive insights into both sales performance and debtor management, aiding strategic decision-making and financial health assessment. The report features a user-friendly interface with easy navigation between the Customer and Debtor sections.
+[Report Link:](https://app.powerbi.com/view?r=eyJrIjoiZmE4ZTc5OTYtNTQ5Zi00MDJhLTkwNTctNjE4MDhmZjc0ZWI4IiwidCI6Ijg1OWI4OGE2LTI3OWUtNDQwOS04MjJiLWQ4ZjdlODU3OTAwOCIsImMiOjl9&pageName=ReportSection)
+
 ![image](https://github.com/MYousafTK/Power-BI/assets/128382787/84e18f1a-87c8-47e5-89b1-6d69b3320201)
 
 
@@ -48,7 +50,7 @@ In the Debtor Report, key financial metrics such as total amount and transaction
 
 # 3- Property Management Dashboard
 Visualizes real estate data in an appealing manner, featuring housing-related visuals and location-wise property insights.
-[Report Link:]url(https://app.powerbi.com/view?r=eyJrIjoiNTkyOGVhMTQtMjQ0Yy00OTgyLWJjOGUtNGM2NDFiODhiNzJlIiwidCI6Ijg1OWI4OGE2LTI3OWUtNDQwOS04MjJiLWQ4ZjdlODU3OTAwOCIsImMiOjl9&pageName=ReportSection)
+[Report Link:](https://app.powerbi.com/view?r=eyJrIjoiNTkyOGVhMTQtMjQ0Yy00OTgyLWJjOGUtNGM2NDFiODhiNzJlIiwidCI6Ijg1OWI4OGE2LTI3OWUtNDQwOS04MjJiLWQ4ZjdlODU3OTAwOCIsImMiOjl9&pageName=ReportSection)
 
 # Overview
 ![image](https://github.com/MYousafTK/Power-BI/assets/128382787/e123bbc6-56fe-466e-8f88-7b82a56125a8)
@@ -62,7 +64,7 @@ Visualizes real estate data in an appealing manner, featuring housing-related vi
 
 Sales Analysis Report
 This report offers insights into customer behavior and debtor metrics, providing interactive visuals and drill-through capabilities for detailed analysis tailored to customers and debtors respectively.
-[Report Link:]url(https://app.powerbi.com/view?r=eyJrIjoiMTE0MDQ0NWEtMDAxZC00MWVlLWE5ODUtZDUzYjc3YTU1YTQ4IiwidCI6Ijg1OWI4OGE2LTI3OWUtNDQwOS04MjJiLWQ4ZjdlODU3OTAwOCIsImMiOjl9&pageName=ReportSection2e01174dc4c731659a5d)
+[Report Link:](https://app.powerbi.com/view?r=eyJrIjoiMTE0MDQ0NWEtMDAxZC00MWVlLWE5ODUtZDUzYjc3YTU1YTQ4IiwidCI6Ijg1OWI4OGE2LTI3OWUtNDQwOS04MjJiLWQ4ZjdlODU3OTAwOCIsImMiOjl9&pageName=ReportSection2e01174dc4c731659a5d)
 
 # Home
 ![image](https://github.com/MYousafTK/Power-BI/assets/128382787/ca262743-5346-4bc8-9ce1-b95beff4e589)
